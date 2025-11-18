@@ -48,9 +48,9 @@ FPS = 60
 
 
 #creating ball and paddles   
-racket1 = Player('leaf.jpg', 30, 200, 4, 50, 150) 
-racket2 = Player('leaf.jpg', 520, 200, 4, 50, 150)
-ball = GameSprite('bumi.png', 200, 200, 4, 50, 50)
+racket1 = Player('bl man.jpeg', 30, 200, 4, 50, 150) 
+racket2 = Player('bl man.jpeg', 520, 200, 4, 50, 150)
+ball = GameSprite('cotton ball.jpg', 200, 200, 4, 50, 50)
 
 
 font.init()
